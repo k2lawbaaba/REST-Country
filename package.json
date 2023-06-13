@@ -1,6 +1,6 @@
 {
-  "name": "countries-app",
   "homepage": "http://k2lawbaaba.github.io/REST-Country",
+  "name": "countries-app",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
