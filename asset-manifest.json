@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/k2lawbaaba/REST-Country/static/css/main.cdcc5aee.css",
+    "main.js": "/k2lawbaaba/REST-Country/static/js/main.67f5d42d.js",
+    "index.html": "/k2lawbaaba/REST-Country/index.html",
+    "main.cdcc5aee.css.map": "/k2lawbaaba/REST-Country/static/css/main.cdcc5aee.css.map",
+    "main.67f5d42d.js.map": "/k2lawbaaba/REST-Country/static/js/main.67f5d42d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cdcc5aee.css",
+    "static/js/main.67f5d42d.js"
+  ]
+}
