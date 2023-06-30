@@ -3,10 +3,8 @@
   margin: 0;
   box-sizing: border-box;
 }
-html {
-  font-family: "Montserrat", sans-serif;
-}
 body {
+  font-family: "Montserrat", sans-serif;
   background: #f8f7fa;
   padding: 0 16px;
 }
